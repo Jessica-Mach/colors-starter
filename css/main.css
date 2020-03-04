@@ -63,6 +63,10 @@ footer {
     background-color: olivedrab;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   #column-1 {
     background-color: olive;
   }
@@ -86,6 +90,10 @@ footer {
 @media (min-width: 1200px) {
   header {
     background-color: magenta;
+  }
+
+  .col-3 {
+    width: 33.3%
   }
 
   #column-1 {
